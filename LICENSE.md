@@ -1,4 +1,4 @@
-# 
+# instant Affinity Photo PC版 插件 是最佳 Affinity Photo PC版 插件，集成 文字流 和 画板。安全、可靠、优化，性能最大化。
 
 
 
